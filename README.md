@@ -4,14 +4,19 @@
 
 ## Project Intro/Objective
   This project was created with two objectives.
-  One is to understand what are the characteristics that differentiate a person who pays his loan on time from one who does not.
+  The bank needs to understand what are the characteristics that differentiate a person who pays his loan on time from one who does not.
   The other is with those characteristics identified being able to train a model so that in the future the bank can use it to predict who are the good and bad debtors.
 
 ### Methods Used
-* Data Visualization
-* Inferential Statistics
+* Data Import (.CSV files)
+* Data Cleaning
+* Data Transformation
+* Data Reduction
+* Exploratory Data Analysis
+* Summary Statistics
+* Feature engineering
 * Machine Learning
-* Classification Predictive Modeling (Binary)
+* Classification Model (Binary)
 * Model Evaluation
 
 ### Technologies
@@ -31,4 +36,4 @@
 - data exploration/descriptive statistics
 - data processing/cleaning
 - statistical modeling
-- writeup/reporting
+- Write-up/reporting (In work)
