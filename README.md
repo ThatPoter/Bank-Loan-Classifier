@@ -4,7 +4,7 @@
 
 ## Project Intro/Objective
   This project was created with two objectives.
-  The bank needs to understand what are the characteristics that differentiate a person who pays his loan on time from one who does not.
+  One is that the bank needs to understand what are the characteristics that differentiate a person who pays his loan on time from one who does not.
   The other is with those characteristics identified being able to train a model so that in the future the bank can use it to predict who are the good and bad debtors.
 
 ### Methods Used
