@@ -8,7 +8,7 @@
   The other is with those characteristics identified being able to train a model so that in the future the bank can use it to predict who are the good and bad debtors.
 
 ### Methods Used
-* Data Import (.CSV files)
+* Data Import (.csv files)
 * Data Cleaning
 * Data Transformation
 * Data Reduction
